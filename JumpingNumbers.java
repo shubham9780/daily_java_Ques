@@ -11,7 +11,7 @@ public class Main
 		for(int j=0;j<T;j++)
 		{
 		    int n=S.nextInt();
-		    for(int i=0;i<n;i++)
+		    for(int i=0;i<=n;i++)
 		    {
 		        k=i;
 		        flag=1;
